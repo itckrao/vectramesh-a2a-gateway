@@ -10,19 +10,7 @@ Thought Leadership: AI to Super Intelligence (SI) Framework: https://lnkd.in/p/e
 
 \# VectraMesh: Zero-Trust IAM \& Behavioral Governance for Autonomous Agent Architectures
 
-
-
-\[!\[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-\[!\[Security Architecture](https://img.shields.io/badge/Security-Zero--Trust%20A2A-blue)](https://github.com/ckrao/vectramesh-a2a-gateway)
-
-\[!\[Python Version](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
-
-
-
 \*\*VectraMesh\*\* is an open-spec control plane and high-throughput security gateway designed to govern agent-to-agent (A2A) interactions in enterprise autonomous AI ecosystems. 
-
-
 
 As enterprises transition from single-prompt assistants to multi-agent meshes (orchestrated via frameworks like LangGraph, AutoGen, and CrewAI), dynamic agent delegation introduces non-deterministic execution risks, privilege escalation, and unmonitored lateral movements. VectraMesh decouples identity verification, policy enforcement, and execution safety from agent logic, establishing a deterministic control plane over non-deterministic LLM systems.
 
