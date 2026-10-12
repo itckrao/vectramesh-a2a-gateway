@@ -225,16 +225,3 @@ Distributed under the MIT License. See LICENSE for more information.
 
 
 \---
-
-
-
-\### Verification \& Immediate Execution Checklist
-
-
-
-1\. \*\*GitHub Setup:\*\* Initialize the repo named `vectramesh-a2a-gateway` under your account.
-
-2\. \*\*Commit `README.md`:\*\* Paste this markdown directly as your root documentation file.
-
-3\. \*\*Next Step:\*\* When you're ready, we can draft the initial Python FastAPI code for the `src/core/main.py` interceptor middleware to enforce token verification and rule checking.
-
